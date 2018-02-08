@@ -1,0 +1,7 @@
+C:\Users\keith\Downloads\Containers-master\Containers\bin\Debug\netcoreapp1.1\Containers.deps.json
+C:\Users\keith\Downloads\Containers-master\Containers\bin\Debug\netcoreapp1.1\Containers.dll
+C:\Users\keith\Downloads\Containers-master\Containers\bin\Debug\netcoreapp1.1\Containers.pdb
+C:\Users\keith\Downloads\Containers-master\Containers\obj\Debug\netcoreapp1.1\Containers.csproj.CoreCompileInputs.cache
+C:\Users\keith\Downloads\Containers-master\Containers\obj\Debug\netcoreapp1.1\Containers.AssemblyInfo.cs
+C:\Users\keith\Downloads\Containers-master\Containers\obj\Debug\netcoreapp1.1\Containers.dll
+C:\Users\keith\Downloads\Containers-master\Containers\obj\Debug\netcoreapp1.1\Containers.pdb
